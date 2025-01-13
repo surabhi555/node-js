@@ -1,0 +1,20 @@
+{
+  "name": "middlewares",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npm run dev",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "uuid": "^11.0.5"
+  }
+}
